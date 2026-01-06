@@ -31,11 +31,7 @@ git clone https://github.com/Rabia-cloud-123 /quetta-website.git
 
 ```bash
 cd quetta-website/frontend
-```
 
-3. Open `Show.html` in your browser.
-
-4. Make sure the backend is running at `http://localhost:5000` so the frontend can fetch data.
 
 ## Notes
 
