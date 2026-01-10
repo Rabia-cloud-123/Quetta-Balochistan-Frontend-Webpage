@@ -14,7 +14,7 @@ frontend/
 
 ## Features
 
-* Displays famous places in Quetta
+* Displays famous places in Quetta City
 * Displays traditional Balochi foods
 * Contact form to send messages
 * Fetches data from backend API (server.js)
@@ -43,3 +43,4 @@ cd quetta-website/frontend
 
 * Developed by: Rabia Ejaz
 * GitHub: https://github.com/Rabia-cloud-123
+
